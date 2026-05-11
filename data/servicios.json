@@ -1,0 +1,5 @@
+[
+    {"id":1,"precio":100,"desc":"Mantenimiento"},
+    {"id":2,"precio":200,"desc":"Desarrollo y transformacion digital"},
+    {"id":3,"precio":300,"desc":"Consultoria"}
+]
