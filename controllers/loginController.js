@@ -1,11 +1,16 @@
 const fs = require('fs').promises
 
+
+const path = require('path')
+
+const ruta = path.join(__dirname, '../data/login.json')
+
 async function login(req, res) {
   const { usuario, password } = req.body
 
   try {
     // leer usuarios desde login.json
-    const data = await fs.readFile('./data/login.json', 'utf-8')
+    const data = await fs.readFile(ruta, 'utf-8')
     const usuarios = JSON.parse(data)
 
     // buscar usuario
