@@ -16,8 +16,9 @@ class Server {
 
   rutas () {
     this.app.use('/servicios', require('../routes/serviciosRoutes'))
-    this.app.use('/api/equipo', require('../routes/equipoRoutes'));
-    this.app.use('/perfil', require('../routes/perfilRoutes'));
+    this.app.use('/equipo', require('../routes/equipoRoutes'));
+    this.app.use('/perfil', require('../routes/perfilRoutes');
+
 
     // manejo de errores
     this.app.use((req, res, next) => {
