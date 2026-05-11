@@ -1,3 +1,6 @@
+const fs = require('fs').promises;
+
+const getPerfil = async (req, res) => {
   try {
     const data = await fs.readFile('./data/perfil.json', 'utf-8');
     const perfil = JSON.parse(data);
@@ -8,6 +11,7 @@
       .status(500)
       .json({ error: 'No se pudo obtener el perfil' });
   }
+};
 
 const getPerfilById = async (req, res) => {
   try {
@@ -30,5 +34,6 @@ const getPerfilById = async (req, res) => {
 };
 
 module.exports = { getPerfil, getPerfilById };
+
 
 
