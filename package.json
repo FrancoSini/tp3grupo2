@@ -23,6 +23,6 @@
     "eslint-config-prettier": "^10.1.8",
     "husky": "^9.1.7",
     "nodemon": "^3.1.14",
-    "standart": "^6.1.0"
+    "standard": "^6.1.0"
   }
 }
