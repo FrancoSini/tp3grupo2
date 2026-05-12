@@ -1,5 +1,5 @@
-const Server = require('./models/server').default;
+const Server = require('./models/server');
 
-const servidor = Server;
-Server.listen();
-console.log(Server);
+const servidor = new Server();
+servidor.listen();
+console.log(servidor, Server);
