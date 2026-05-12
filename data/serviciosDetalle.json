@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "nombre":"Mantenimiento",
+        "detalle_largo":"Ofrecemos servicios de mantenimiento preventivo y correctivo para asegurar el óptimo funcionamiento de sus sistemas y equipos tecnológicos.",
+        "disponible":true,
+        "categoria":"Tecnología"
+    },
+    {
+        "id":2,
+        "nombre":"Desarrollo y transformación digital",
+        "detalle_largo":"Brindamos servicios de desarrollo de software a medida y transformación digital para ayudar a su empresa a adaptarse a las demandas del mercado actual",
+        "disponible":true,
+        "categoria":"Tecnología"
+    },
+    {
+        "id":3,
+        "nombre":"Consultoria",
+        "detalle_largo":"Nuestros expertos en consultoría digital están disponibles para asesorar a su empresa en estrategias de transformación digital, optimización de procesos y adopción de nuevas tecnologías.",
+        "disponible":true,
+        "categoria":"Tecnología"
+    }
+
+]
