@@ -2,14 +2,6 @@
   "name": "tp3grupo2",
   "version": "1.0.0",
   "description": "grupo2",
-  "homepage": "https://github.com/FrancoSini/tp3grupo2#readme",
-  "bugs": {
-    "url": "https://github.com/FrancoSini/tp3grupo2/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/FrancoSini/tp3grupo2.git"
-  },
   "license": "ISC",
   "author": "",
   "type": "commonjs",
