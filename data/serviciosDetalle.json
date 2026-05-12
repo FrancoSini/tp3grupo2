@@ -19,6 +19,68 @@
         "detalle_largo":"Nuestros expertos en consultoría digital están disponibles para asesorar a su empresa en estrategias de transformación digital, optimización de procesos y adopción de nuevas tecnologías.",
         "disponible":true,
         "categoria":"Tecnología"
+    },
+    {
+        "id":5,
+        "nombre":"Branding y logos",
+        "detalle_largo":"Diseñamos identidades visuales únicas y memorables que reflejan la esencia de su marca y la diferencian en el mercado.",
+        "disponible":true,
+        "categoria":"Diseño"
+    },
+    {
+        "id":6,
+        "nombre":"Marketing digital",
+        "detalle_largo":"Implementamos estrategias de marketing digital para aumentar la visibilidad de su negocio y atraer clientes potenciales.",
+        "disponible":true,
+        "categoria":"Marketing"
+    },
+    {
+        "id":7,
+        "nombre":"Gestión de redes sociales",
+        "detalle_largo":"Administramos sus redes sociales con contenido atractivo y campañas efectivas para fortalecer la relación con sus clientes.",
+        "disponible":true,
+        "categoria":"Marketing"
+    },
+    {
+        "id":8,
+        "nombre":"E-commerce personalizado",
+        "detalle_largo":"Desarrollamos tiendas online seguras y escalables, adaptadas a las necesidades de su negocio y con integración de medios de pago.",
+        "disponible":true,
+        "categoria":"Tecnología"
+    },
+    {
+        "id":9,
+        "nombre":"Fotografía de productos",
+        "detalle_largo":"Ofrecemos fotografía profesional para destacar sus productos con imágenes de alta calidad que potencien sus ventas.",
+        "disponible":true,
+        "categoria":"Creatividad"
+    },
+    {
+        "id":10,
+        "nombre":"Edición de video",
+        "detalle_largo":"Creamos y editamos videos promocionales, institucionales y publicitarios para comunicar su mensaje de manera impactante.",
+        "disponible":true,
+        "categoria":"Creatividad"
+    },
+    {
+        "id":11,
+        "nombre":"Consultoría tecnológica avanzada",
+        "detalle_largo":"Brindamos asesoría especializada en innovación tecnológica, seguridad informática y optimización de infraestructuras digitales.",
+        "disponible":true,
+        "categoria":"Tecnología"
+    },
+    {
+        "id":12,
+        "nombre":"Automatización de procesos",
+        "detalle_largo":"Diseñamos soluciones de automatización para mejorar la eficiencia operativa y reducir costos en su empresa.",
+        "disponible":true,
+        "categoria":"Tecnología"
+    },
+    {
+        "id":13,
+        "nombre":"Inteligencia Artificial aplicada",
+        "detalle_largo":"Implementamos soluciones de inteligencia artificial para personalizar experiencias, optimizar procesos y potenciar la innovación.",
+        "disponible":true,
+        "categoria":"Tecnología"
     }
-
 ]
