@@ -1,4 +1,5 @@
 const Server = require('./models/server').default;
 
 const servidor = Server;
-servidor.listen();
+Server.listen();
+console.log(Server);
