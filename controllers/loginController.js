@@ -32,4 +32,24 @@ async function login(req, res) {
   }
 }
 
-module.exports = { login }
+// login por id
+async function loginById(req, res) {
+  try {
+    const data = await fs.readFile(ruta, 'utf-8');
+    const usuarios = JSON.parse(data);
+
+    const { id } = req.params;
+    const user = usuarios.find(u => u.id === parseInt(id));
+
+    if (!user) {
+      return res.status(404).json({ error: `No existe el usuario con id ${id}` });
+    }
+
+    return res.status(200).json(user);
+  } catch (error) {
+    console.error(error);
+    return res.status(500).json({ error: 'Error al obtener usuario por id' });
+  }
+}
+
+module.exports = { login, loginById };
