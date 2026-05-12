@@ -7,3 +7,4 @@ rutas.get('/', getPerfil);
 rutas.get('/:id', getPerfilById);
 
 module.exports = rutas;
+//para cambiar el .js
