@@ -1,5 +1,5 @@
 const { Router } = require('express');
-const { getPerfil, getPerfilById } = require('./controllers/perfilController');
+const { getPerfil, getPerfilById } = require('../controllers/perfilController');
 
 const rutas = Router();
 
