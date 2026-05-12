@@ -1,26 +1,21 @@
 const fs = require('fs').promises;
-const path = require('path')
 
-const ruta = path.join(__dirname, '../data/perfil.json')
-
-
+//const ruta = path.join(__dirname, '../data/perfil.json');
 
 const getPerfil = async (req, res) => {
   try {
-    const data = await fs.readFile(ruta, 'utf-8');
+    const data = await fs.readFile('./data/perfil.json', 'utf-8');
     const perfil = JSON.parse(data);
     return res.status(200).json(perfil);
   } catch (error) {
     console.log(error);
-    return res
-      .status(500)
-      .json({ error: 'No se pudo obtener el perfil' });
+    return res.status(500).json({ error: 'No se pudo obtener el perfil' });
   }
 };
 
 const getPerfilById = async (req, res) => {
   try {
-    const data = await fs.readFile(ruta, 'utf8');
+    const data = await fs.readFile('./data/perfil.json', 'utf8');
     const perfiles = JSON.parse(data);
     const { id } = req.params;
     const perfilId = perfiles.find((p) => p.id === parseInt(id));
@@ -39,6 +34,3 @@ const getPerfilById = async (req, res) => {
 };
 
 module.exports = { getPerfil, getPerfilById };
-
-
-

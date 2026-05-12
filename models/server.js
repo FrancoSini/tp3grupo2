@@ -5,7 +5,7 @@ require('dotenv').config();
 class Server {
   constructor() {
     this.app = express();
-    this.port = process.env.PORT || 3000;
+    this.port = process.env.PORT || 10000;
     this.middleware();
     this.rutas();
   }
@@ -17,7 +17,7 @@ class Server {
   rutas() {
     this.app.use('/servicios', require('../routes/serviciosRoutes'));
     this.app.use('/equipo', require('../routes/equipoRoutes'));
-    this.app.use('/perfil', require('../routes/perfilRoutes'));
+    //this.app.use('/perfil', require('../routes/perfilRoutes'));
     this.app.use('/login', require('../routes/loginRoutes'));
 
     // manejo de errores
