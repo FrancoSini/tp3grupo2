@@ -3,7 +3,7 @@
     {"id":2,"precio":200,"desc":"Desarrollo y transformacion digital", "img":"https://digital-factory.onrender.com/LogoServicios.png"},
     {"id":3,"precio":300,"desc":"Consultoria", "img":"https://digital-factory.onrender.com/LogoServicios.png"},
     {"id":4,"precio":250,"desc":"Diseño de páginas web", "img":"https://digital-factory.onrender.com/LogoServicios.png"},
-    {"id":5,"precio":180,"desc":"Branding y logos", "img":"hhttps://digital-factory.onrender.com/LogoServicios.png"},
+    {"id":5,"precio":180,"desc":"Branding y logos", "img":"https://digital-factory.onrender.com/LogoServicios.png"},
     {"id":6,"precio":220,"desc":"Marketing digital", "img":"https://digital-factory.onrender.com/LogoServicios.png"},
     {"id":7,"precio":150,"desc":"Gestión de redes sociales", "img":"https://digital-factory.onrender.com/LogoServicios.png"},
     {"id":8,"precio":350,"desc":"E-commerce personalizado", "img":"https://digital-factory.onrender.com/LogoServicios.png"},
