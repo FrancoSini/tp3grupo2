@@ -1,15 +1,15 @@
 [
-    {"id":1,"precio":100,"desc":"Mantenimiento", "img":"..//tp3grupo2/public/LogoServicios.png"},
-    {"id":2,"precio":200,"desc":"Desarrollo y transformacion digital", "img":"..//tp3grupo2/public/LogoServicios.png"},
-    {"id":3,"precio":300,"desc":"Consultoria", "img":"..//tp3grupo2/public/LogoServicios.png"},
-    {"id":4,"precio":250,"desc":"Diseño de páginas web", "img":"..//tp3grupo2/public/LogoServicios.png"},
-    {"id":5,"precio":180,"desc":"Branding y logos", "img":"..//tp3grupo2/public/LogoServicios.png"},
-    {"id":6,"precio":220,"desc":"Marketing digital", "img":"..//tp3grupo2/public/LogoServicios.png"},
-    {"id":7,"precio":150,"desc":"Gestión de redes sociales", "img":"..//tp3grupo2/public/LogoServicios.png"},
-    {"id":8,"precio":350,"desc":"E-commerce personalizado", "img":"..//tp3grupo2/public/LogoServicios.png"},
-    {"id":9,"precio":120,"desc":"Fotografía de productos", "img":"..//tp3grupo2/public/LogoServicios.png"},
-    {"id":10,"precio":140,"desc":"Edición de video", "img":"..//tp3grupo2/public/LogoServicios.png"},
-    {"id":11,"precio":400,"desc":"Consultoría tecnológica avanzada", "img":"..//tp3grupo2/public/LogoServicios.png"},
-    {"id":12,"precio":280,"desc":"Automatización de procesos", "img":"..//tp3grupo2/public/LogoServicios.png"},
-    {"id":13,"precio":500,"desc":"Inteligencia Artificial aplicada", "img":"..//tp3grupo2/public/LogoServicios.png"}
+    {"id":1,"precio":100,"desc":"Mantenimiento", "img":"/LogoServicios.png"},
+    {"id":2,"precio":200,"desc":"Desarrollo y transformacion digital", "img":"/LogoServicios.png"},
+    {"id":3,"precio":300,"desc":"Consultoria", "img":"/LogoServicios.png"},
+    {"id":4,"precio":250,"desc":"Diseño de páginas web", "img":"/LogoServicios.png"},
+    {"id":5,"precio":180,"desc":"Branding y logos", "img":"/LogoServicios.png"},
+    {"id":6,"precio":220,"desc":"Marketing digital", "img":"/LogoServicios.png"},
+    {"id":7,"precio":150,"desc":"Gestión de redes sociales", "img":"/LogoServicios.png"},
+    {"id":8,"precio":350,"desc":"E-commerce personalizado", "img":"/LogoServicios.png"},
+    {"id":9,"precio":120,"desc":"Fotografía de productos", "img":"/LogoServicios.png"},
+    {"id":10,"precio":140,"desc":"Edición de video", "img":"/LogoServicios.png"},
+    {"id":11,"precio":400,"desc":"Consultoría tecnológica avanzada", "img":"/LogoServicios.png"},
+    {"id":12,"precio":280,"desc":"Automatización de procesos", "img":"/LogoServicios.png"},
+    {"id":13,"precio":500,"desc":"Inteligencia Artificial aplicada", "img":"/LogoServicios.png"}
 ]
