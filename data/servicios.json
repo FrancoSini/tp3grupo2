@@ -1,15 +1,15 @@
 [
-    {"id":1,"precio":100,"desc":"Mantenimiento", "img":"https://digital-factory-api.onrender.com/LogoServicios.png"},
-    {"id":2,"precio":200,"desc":"Desarrollo y transformacion digital", "img":"https://digital-factory-api.onrender.com/LogoServicios.png"},
-    {"id":3,"precio":300,"desc":"Consultoria", "img":"https://digital-factory-api.onrender.com/LogoServicios.png"},
-    {"id":4,"precio":250,"desc":"Diseño de páginas web", "img":"https://digital-factory-api.onrender.com/LogoServicios.png"},
-    {"id":5,"precio":180,"desc":"Branding y logos", "img":"https://digital-factory-api.onrender.com/LogoServicios.png"},
-    {"id":6,"precio":220,"desc":"Marketing digital", "img":"https://digital-factory-api.onrender.com/LogoServicios.png"},
-    {"id":7,"precio":150,"desc":"Gestión de redes sociales", "img":"https://digital-factory-api.onrender.com/LogoServicios.png"},
-    {"id":8,"precio":350,"desc":"E-commerce personalizado", "img":"https://digital-factory-api.onrender.com/LogoServicios.png"},
-    {"id":9,"precio":120,"desc":"Fotografía de productos", "img":"https://digital-factory-api.onrender.com/LogoServicios.png"},
-    {"id":10,"precio":140,"desc":"Edición de video", "img":"https://digital-factory-api.onrender.com/LogoServicios.png"},
-    {"id":11,"precio":400,"desc":"Consultoría tecnológica avanzada", "img":"https://digital-factory-api.onrender.com/LogoServicios.png"},
-    {"id":12,"precio":280,"desc":"Automatización de procesos", "img":"https://digital-factory-api.onrender.com/LogoServicios.png"},
-    {"id":13,"precio":500,"desc":"Inteligencia Artificial aplicada", "img":"https://digital-factory-api.onrender.com/LogoServicios.png"}
+    {"id":1,"precio":100,"desc":"Mantenimiento", "img":"https://digital-factory.onrender.com/LogoServicios.png"},
+    {"id":2,"precio":200,"desc":"Desarrollo y transformacion digital", "img":"https://digital-factory.onrender.com/LogoServicios.png"},
+    {"id":3,"precio":300,"desc":"Consultoria", "img":"https://digital-factory.onrender.com/LogoServicios.png"},
+    {"id":4,"precio":250,"desc":"Diseño de páginas web", "img":"https://digital-factory.onrender.com/LogoServicios.png"},
+    {"id":5,"precio":180,"desc":"Branding y logos", "img":"hhttps://digital-factory.onrender.com/LogoServicios.png"},
+    {"id":6,"precio":220,"desc":"Marketing digital", "img":"https://digital-factory.onrender.com/LogoServicios.png"},
+    {"id":7,"precio":150,"desc":"Gestión de redes sociales", "img":"https://digital-factory.onrender.com/LogoServicios.png"},
+    {"id":8,"precio":350,"desc":"E-commerce personalizado", "img":"https://digital-factory.onrender.com/LogoServicios.png"},
+    {"id":9,"precio":120,"desc":"Fotografía de productos", "img":"https://digital-factory.onrender.com/LogoServicios.png"},
+    {"id":10,"precio":140,"desc":"Edición de video", "img":"https://digital-factory.onrender.com/LogoServicios.png"},
+    {"id":11,"precio":400,"desc":"Consultoría tecnológica avanzada", "img":"https://digital-factory.onrender.com/LogoServicios.png"},
+    {"id":12,"precio":280,"desc":"Automatización de procesos", "img":"https://digital-factory.onrender.com/LogoServicios.png"},
+    {"id":13,"precio":500,"desc":"Inteligencia Artificial aplicada", "img":"https://digital-factory.onrender.com/LogoServicios.png"}
 ]
