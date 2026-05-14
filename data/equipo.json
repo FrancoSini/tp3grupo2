@@ -1,6 +1,6 @@
 [
-    {"id":1, "nombre":"Juan Perez"  ,"descripcion":"Desarrollador Front-End" ,"img": "/assets/img/integrante1.jpg" },
-    {"id":2, "nombre":"Maria Gomez"  ,"descripcion":"Diseñadora UX/UI" ,"img": "/assets/img/integrante2.jpg" },
-    {"id":3, "nombre":"Carlos Rodriguez"  ,"descripcion":"Desarrollador Back-End" ,"img": "/assets/img/integrante3.jpg" },
-    {"id":4, "nombre":"Laura Maria Fernandez"  ,"descripcion":"Project Manager" ,"img": "/assets/img/integrante4.jpg" }
+    {"id":1, "nombre":"Juan Perez"  ,"descripcion":"Desarrollador Front-End" ,"img": "https://digital-factory.onrender.com/integrante1.jpg" },
+    {"id":2, "nombre":"Maria Gomez"  ,"descripcion":"Diseñadora UX/UI" ,"img": "https://digital-factory.onrender.com/integrante2.jpg" },
+    {"id":3, "nombre":"Carlos Rodriguez"  ,"descripcion":"Desarrollador Back-End" ,"img": "https://digital-factory.onrender.com/integrante3.jpg" },
+    {"id":4, "nombre":"Laura Maria Fernandez"  ,"descripcion":"Project Manager" ,"img": "https://digital-factory.onrender.com/integrante4.jpg" }
 ]
